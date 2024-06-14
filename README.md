@@ -22,5 +22,5 @@ This project is a test to refine my skills in the Python language and Django Res
 
 # ⚠️ Information
 
-This is a pilote. The API was made with help of alura courses [Django REST APIs](https://www.alura.com.br/formacao-django-rest)
+This is a pilote project. The API was made with help of the Alura platfom course [Django REST APIs](https://www.alura.com.br/formacao-django-rest)
 
